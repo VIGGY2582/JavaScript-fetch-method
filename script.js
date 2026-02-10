@@ -1,4 +1,4 @@
-fetch("https://jsonplaceholder.typicode.com/users")
+fetch("http://localhost:8080/items/ui")
 
 .then(function (response)
 {
